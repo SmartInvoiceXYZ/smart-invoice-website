@@ -154,6 +154,9 @@ export function Footer({ ...props }) {
           <NextLink href="https://twitter.com/SmartInvoiceXYZ" target="_blank" passHref>
             <Link target="_blank">Twitter</Link>
           </NextLink>
+          <NextLink href="https://discord.gg/t4n25qrUtN" target="_blank" passHref>
+            <Link target="_blank">Discord</Link>
+          </NextLink>
         </Flex>
       </Flex>
     </Flex>
